@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SOA_lab6_library_remote.iml" filepath="$PROJECT_DIR$/.idea/SOA_lab6_library_remote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-basic/client-basic.iml" filepath="$PROJECT_DIR$/client-basic/client-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejb-remote-server/ejb-remote-server.iml" filepath="$PROJECT_DIR$/ejb-remote-server/ejb-remote-server.iml" />
+    </modules>
+  </component>
+</project>

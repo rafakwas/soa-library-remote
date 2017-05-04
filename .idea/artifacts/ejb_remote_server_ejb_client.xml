@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="ejb-remote-server:ejb-client">
+    <output-path>$PROJECT_DIR$/ejb-remote-server/target</output-path>
+    <root id="archive" name="ejb-remote-server-client.jar">
+      <element id="artifact" artifact-name="ejb-remote-server:ejb-client exploded" />
+    </root>
+  </artifact>
+</component>

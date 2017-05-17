@@ -1,1 +1,4 @@
-com/sample/client/RemoteEJBClient.class
+controller/FormController.class
+controller/BookController$1.class
+controller/BookController.class
+utils/Initializer.class

@@ -5,6 +5,7 @@
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="ejb" url="file://$PROJECT_DIR$/ejb-remote-server" />
+    <file type="web" url="file://$PROJECT_DIR$/client-basic" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

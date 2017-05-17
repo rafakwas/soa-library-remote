@@ -39,6 +39,7 @@ public class BookRepository implements BookRepositoryRemote {
     public void returning(Book book) {
         if(book.isRented()) {
             IOUtils.setRent(book,false);
+            System.out.println("SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS");
         }
     }
 
@@ -49,5 +50,6 @@ public class BookRepository implements BookRepositoryRemote {
 
         public void removeBookstore() {
             IOUtils.removeBooks();
+            System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
         }
 }
